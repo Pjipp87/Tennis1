@@ -12,6 +12,8 @@ public class Player {
         players.add(this);
     }
 
+
+    //Hallo ;)
     public static ArrayList<Player> getMannschaft(String Mannschaft) {
         ArrayList<Player> mannschaft = new ArrayList<Player>();
         for (Player player : players) {
