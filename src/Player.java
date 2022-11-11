@@ -7,6 +7,8 @@ public class Player {
         B
     }
 
+
+
     private static ArrayList<Player> players = new ArrayList<Player>();
 
     public Player(String Name, String Vorname, String Mannschaft) {
