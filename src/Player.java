@@ -6,7 +6,7 @@ public class Player {
         A,
         B
     }
-
+//Hallo :)
 
 
     private static ArrayList<Player> players = new ArrayList<Player>();
